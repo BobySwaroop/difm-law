@@ -1,0 +1,43 @@
+.lawyers{
+    background-color: var(--bg-black-900);
+}
+.viewbtn{
+    background-color: var(--text-black-700);
+    border-radius: 50px !important;
+    font-size: smaller;
+}
+
+.exp{
+    font-size: 12px !important;
+
+font-weight: 600 !important;
+
+line-height: 22px !important;
+}
+.card{
+    border-radius: 17px !important;
+}
+.lawyers-desc{
+    font-size: 13px !important;
+    color: #585858;
+
+font-style: normal;
+font-weight: 490 !important;
+/* font-size: 12px; */
+line-height: 21px !important;
+}
+
+.city{
+    margin-top: -7px !important;
+    font-size: 14px !important;
+    /* font-weight: 0 !important; */
+}
+
+.lawyers-card{
+    margin-top: 120px !important;
+    width: 300px;
+    justify-content: space-between !important;
+    margin: auto;
+    
+}
+

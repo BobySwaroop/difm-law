@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "usha",
+      "email": "usha22@gmail.com",
+      "message": "hello",
+      "phone": "070",
+      "experience": "2 Years",
+      "specialization": "React",
+      "education": "msc",
+      "worktype": "Technical",
+      "pic": "C:\\fakepath\\Screenshot (4).png",
+      "password": "12",
+      "confirmpassword": "12",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "urmila",
+      "email": "urmila12@gmail.com",
+      "message": "hello urmila",
+      "phone": "98698",
+      "experience": "2 Years",
+      "specialization": "React",
+      "education": "diploma",
+      "worktype": "Technical",
+      "pic": "C:\\fakepath\\Screenshot (5).png",
+      "password": "12",
+      "confirmpassword": "12",
+      "id": 1
+    },
+    {
+      "name": "urmila",
+      "email": "urmila12@gmail.com",
+      "message": "hello urmila",
+      "phone": "98698",
+      "experience": "2 Years",
+      "specialization": "React",
+      "education": "diploma",
+      "worktype": "Technical",
+      "pic": "C:\\fakepath\\Screenshot (5).png",
+      "password": "12",
+      "confirmpassword": "12",
+      "id": 2
+    },
+    {
+      "name": "aftab",
+      "email": "aftab12@gmail.com",
+      "message": "hello aftab",
+      "phone": "12",
+      "experience": "2 Years",
+      "specialization": "React",
+      "education": "b.tech",
+      "worktype": "Technical",
+      "pic": "C:\\fakepath\\Screenshot (4).png",
+      "password": "12",
+      "confirmpassword": "12",
+      "id": 3
+    },
+    {
+      "name": "78",
+      "email": "090",
+      "message": "",
+      "phone": "",
+      "experience": "",
+      "specialization": "",
+      "education": "",
+      "worktype": "",
+      "pic": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 4
+    }
+  ]
+}

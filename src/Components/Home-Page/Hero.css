@@ -1,0 +1,31 @@
+
+/*  */
+.title{
+    color: var(--bg-black-50);
+    font-style: normal;
+font-weight: 500;
+font-size: 66px;
+}
+h2{
+    font-weight: 600;
+font-size: 49px;
+line-height: 85px;
+}
+span{
+    color: var(--text-black-900);
+}
+
+.srch{
+    background-color: var(--text-black-900);
+    border-radius: 10px;
+}
+::placeholder {
+    font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 22px !important;
+    
+    
+}
+input{
+    width: 250px !important;
+}
