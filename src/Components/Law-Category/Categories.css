@@ -41,6 +41,7 @@ line-height: 75px;
     padding: 1.6%;
     margin-top: -70px;
     border-radius: 20px !important;
+    height: 27% !important;
 }
 .cat_law{
     height: auto;
@@ -57,4 +58,8 @@ line-height: 75px;
     
   }
 
+}
+
+.featured{
+    margin-top: 160px !important;
 }

@@ -5,7 +5,7 @@ import Arrow from "../../images/lawyers-arrow.svg"
 
 const Lawyers_featured = ({profile,name,location,category,time,description,experience}) => {
   return (
-   
+       
         <div className='col-lg-3 rounded-3 mt-4 bg-white mb-4 card shadow p-3 mb-5 bg-body rounded mt-5 lawyers-card'>
          <div className='row  mt-2' id='lawyer'>
             <div className='col-lg-4 col-sm-4 col-6'>
@@ -17,7 +17,7 @@ const Lawyers_featured = ({profile,name,location,category,time,description,exper
             </div>
          </div>
 
-        <span className='ms-5  fs-6'><b>{category}</b></span>
+        <span className='ms-5  fs-5 fw-normal'>{category}</span>
       
       <div className='mt-3 ms-3 me-3'>
         <p className='font-weight-bold fs-6 mb-1'>{time}</p>

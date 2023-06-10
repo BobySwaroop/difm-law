@@ -8,11 +8,11 @@
 }
 
 .exp{
-    font-size: 12px !important;
+    font-size: 69.80% !important;
 
 font-weight: 600 !important;
 
-line-height: 22px !important;
+
 }
 .card{
     border-radius: 17px !important;
@@ -34,7 +34,7 @@ line-height: 21px !important;
 }
 
 .lawyers-card{
-    margin-top: 120px !important;
+    margin-top: 59px !important;
     width: 300px;
     justify-content: space-between !important;
     margin: auto;
