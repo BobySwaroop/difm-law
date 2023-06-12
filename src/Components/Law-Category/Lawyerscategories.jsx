@@ -1,7 +1,7 @@
 import React from 'react'
 import Arrow from "../../images/lawyers-arrow.svg"
 import Categories from './Categories'
-const Lawyerscategories = ({logo, type, available}) => {
+const Lawyerscategories = ({logo, type, avalilabe}) => {
   return (
    
       <div className='col-lg-3 p-4'>
@@ -10,7 +10,7 @@ const Lawyerscategories = ({logo, type, available}) => {
               <img src={logo}></img>
           <p className='mt-2'>{type}</p>
           <div className='d-flex'>
-          <h6>{available}</h6>
+          <h6 className='mt-1'>{avalilabe}</h6>
           <img src={Arrow} className='ms-2'></img>
           </div>
           
